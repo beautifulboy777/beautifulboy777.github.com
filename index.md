@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：周鑫杰
+#### 目前学历：大一
+#### 目前学校：浙江万里学院
+#### 邮箱：1113685508@qq.com
+#### 地址：中国浙江省杭州市
 
-You can use the [editor on GitHub](https://github.com/beautifulboy777/beautifulboy777.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 最新消息
+1.目前在为数学考试做充分准备
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 生活目标
+1.完成学业
+2.尝试把自己喜欢的事作为一份工作
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beautifulboy777/beautifulboy777.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我要求
+1.学习上：主动，认真，负责，仔细，耐心，努力
+2.生活上：乐观，坚守初心
+3.待人上：关注，耐心，热情，无私
