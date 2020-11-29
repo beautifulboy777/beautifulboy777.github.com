@@ -8,7 +8,7 @@
       <p><b>地址：中国浙江省杭州市</b></p>
     </td>
     <td width="25%">
-      <img src="/C:\Users\Administrator\Desktop\ME.jpg" width="100%">
+      <img src="/ME.jpg" width="100%">
     </td>
   </tr>
 </table>
